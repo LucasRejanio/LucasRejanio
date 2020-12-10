@@ -26,7 +26,8 @@ Student of Systems Analysis and Development. I seek professional challenges in t
 -------
 ### **View my stats on Github**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasRejanio&hide=prs,issues,contribs&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasRejanio&show_icons=true&theme=dracula&count_private=true)
+                              
 --------
 **Languages and Tools:**
 
@@ -34,5 +35,6 @@ Student of Systems Analysis and Development. I seek professional challenges in t
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
