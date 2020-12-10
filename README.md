@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ## About me
 
-Student of Systems Analysis and Development. I seek professional challenges in the technology market, aiming to learn and generate results. I am an enthusiast of the Cloud Computing and DevOps culture. I always try to develop activities in the best possible way, aiming at impacts, improvements and innovation.
+- Student of Systems Analysis and Development. I seek professional challenges in the technology market, aiming to learn and generate results. I am an enthusiast of the Cloud Computing and DevOps culture. I always try to develop activities in the best possible way, aiming at impacts, improvements and innovation. 
+
+- Currently DevOps intern working at Enjoei
 
 -------
 ### **View my stats on Github**
