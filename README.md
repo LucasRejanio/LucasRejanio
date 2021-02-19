@@ -28,7 +28,7 @@ Student of Systems Analysis and Development. I seek professional challenges in t
 -------
 ### **View my stats on Github**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRejanio&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRejanio&count_private=true&show_icons=true&theme=dracula)
                               
 --------
 **Languages and Tools:**
