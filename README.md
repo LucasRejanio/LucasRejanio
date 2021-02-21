@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasRejanio)](https://github.com/LucasRejanio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrejanio/)](https://www.linkedin.com/in/lucasrejanio/)
 
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+
 ## About me
 
 Student of Systems Analysis and Development. I seek professional challenges in the technology market, aiming to learn and generate results. I am an enthusiast of the Cloud Computing and DevOps culture. I always try to develop activities in the best possible way, aiming at impacts, improvements and innovation. 
