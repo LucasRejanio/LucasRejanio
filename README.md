@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-Student of Systems Analysis and Development. I look for professional challenges in the technology market, keeping in mind learning and generating results as an objective. I'm an enthusiast in Cloud Computing, DevOps culture and process automation by CI / CD or Python scripts. I always try to develop the activities in the best possible way, aiming at impacts, improvements and innovation.
+Student of Systems Analysis and Development. I look for professional challenges in the technology market, keeping in mind learning and generating results as an objective. I'm an enthusiast in Cloud Computing, DevOps culture and process automation by CI / CD or Python scripts. In addition, I always try to keep myself informed about new technologies or features, in order to always develop activities in the best possible way, aiming at impacts, improvements and innovation.
 
 - Currently DevOps Intern working at Enjoei
 
