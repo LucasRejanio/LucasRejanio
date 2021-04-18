@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="lucasrejanio"><a class="LI-simple-link" href='https://br.linkedin.com/in/lucasrejanio?trk=profile-badge'>Lucas Rejanio</a></div>
+
 ## About me
 
 Student of Systems Analysis and Development. I look for professional challenges in the technology market, keeping in mind learning and generating results as an objective. I'm an enthusiast in Cloud Computing, DevOps culture and process automation by CI / CD, Ansible or Python scripts. In addition, I always try to keep myself informed about new technologies or features, in order to always develop activities in the best possible way, aiming at impacts, improvements and innovation.
