@@ -27,8 +27,8 @@ Student of Systems Analysis and Development. I look for professional challenges 
 
 - Currently Site Reliability Engineer and DevOps working at Enjoei
 
--------
-### **View my stats on Github**
+<!-- ------- -->
+<!-- ### **View my stats on Github** -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRejanio&count_private=true&show_icons=true&theme=dracula) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRejanio&count_private=true&show_icons=true&theme=midnight-purple) -->
