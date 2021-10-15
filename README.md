@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 -->
-#### About me
+### About me
 
 Graduated in Systems Analysis and Development with a focus on Site Reliability Engineering. I seek professional challenges in the technology market, aiming to carry out actions that bring positive impacts, improvements and innovations. I'm excited about automations, DevOps culture and the use of the SRE concept in corporate environments.
 
