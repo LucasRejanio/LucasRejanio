@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-Graduado em Análise e Desenvolvimento de Sistemas com foco em Engenharia de Confiabilidade de Site. Busco desafios profissionais no mercado de tecnologia, com objetivo de executar ações com alto impacto em melhoria e inovação. Estou entusiasmado com automações, cultura DevOps e a preatica SRE em ambientes corporativos.
+Graduated in Systems Analysis and Development with a focus on Site Reliability Engineering. I seek professional challenges in the technology market, aiming to carry out actions with a high impact on improvements and innovations. I'm excited about automation, the DevOps culture and the use of the SRE concept in corporate environments.
 
 - Currently Site Reliability Engineer and DevOps working at Enjoei
 
