@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 # Hi, I'm Lucas!
 
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasRejanio)](https://github.com/LucasRejanio) -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrejanio/)](https://www.linkedin.com/in/lucasrejanio/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrejanio/)](https://www.linkedin.com/in/lucasrejanio/) -->
 <!--
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 -->
 ## About me
 
-<!-- Student of Systems Analysis and Development. I look for professional challenges in the technology market, keeping in mind learning and generating results as an objective. I'm an enthusiast in Cloud Computing, DevOps culture and process automation by CI/CD, Ansible or Python scripts. In addition, I always try to keep myself informed about new technologies or features, in order to always develop activities in the best possible way, aiming at impacts, improvements and innovation. -->
+Student of Systems Analysis and Development. I look for professional challenges in the technology market, keeping in mind learning and generating results as an objective. I'm an enthusiast in Cloud Computing, DevOps culture and process automation by CI/CD, Ansible or Python scripts. In addition, I always try to keep myself informed about new technologies or features, in order to always develop activities in the best possible way, aiming at impacts, improvements and innovation.
 
 - Currently Site Reliability Engineer and DevOps working at Enjoei
 
