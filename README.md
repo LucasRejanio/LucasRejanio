@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-Student of Systems Analysis and Development. I look for professional challenges in the technology market, keeping in mind learning and generating results as an objective. I'm an enthusiast in Cloud Computing, DevOps culture and process automation by CI/CD, Ansible or Python scripts. In addition, I always try to keep myself informed about new technologies or features, in order to always develop activities in the best possible way, aiming at impacts, improvements and innovation.
+Graduado em Análise e Desenvolvimento de Sistemas com foco em Engenharia de Confiabilidade de Site. Busco desafios profissionais no mercado de tecnologia, com objetivo de executar ações com alto impacto em melhoria e inovação. Estou entusiasmado com automações, cultura DevOps e a preatica SRE em ambientes corporativos.
 
 - Currently Site Reliability Engineer and DevOps working at Enjoei
 
