@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 -->
 <!-- 
 # Hi, I'm Lucas! -->
-🚀
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasRejanio)](https://github.com/LucasRejanio) -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrejanio/)](https://www.linkedin.com/in/lucasrejanio/) -->
 <!--
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 -->
-<!-- ### About me
+### About me
 
 Graduated in Systems Analysis and Development with a focus on Site Reliability Engineering. I seek professional challenges in the technology market, aiming to carry out actions that bring positive impacts, improvements and innovations. I'm excited about automations, DevOps culture and the use of the SRE concept in corporate environments.
 
-- Currently Site Reliability Engineer and DevOps working at Enjoei -->
+<!-- - Currently Site Reliability Engineer and DevOps working at Enjoei -->
 
 <!-- ------- -->
 <!-- ### **View my stats on Github** -->
