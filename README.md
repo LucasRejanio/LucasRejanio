@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 
-Graduated in Systems Analysis and Development with a focus on Site Reliability Engineering. I seek professional challenges in the technology market, aiming to carry out actions that bring positive impacts, improvements and innovations. I'm excited about automations, DevOps culture and the use of the SRE concept in corporate environments.
+Graduated in Systems Analysis and Development with a focus on platform engineering. I seek professional challenges in the technology market, aiming to carry out actions that bring positive impacts through improvements, innovations and empowerment to product teams. I am enthusiastic about DevOps culture, application of SRE concepts in corporate environments and automation of processes and routine tasks.
 
 <!-- - Currently Site Reliability Engineer and DevOps working at Enjoei -->
 
